@@ -1,0 +1,11 @@
+,resort_id,name,location,description,website,contact_number,email
+0,1,Resort 1,Location 1,Description 1,www.resort1.com,1234567890,resort1@example.com
+1,2,Resort 2,Location 2,Description 2,www.resort2.com,2345678901,resort2@example.com
+2,3,Resort 3,Location 3,Description 3,www.resort3.com,3456789012,resort3@example.com
+3,4,Resort 4,Location 4,Description 4,www.resort4.com,4567890123,resort4@example.com
+4,5,Resort 5,Location 5,Description 5,www.resort5.com,5678901234,resort5@example.com
+5,6,Resort 6,Location 6,Description 6,www.resort6.com,6789012345,resort6@example.com
+6,7,Resort 7,Location 7,Description 7,www.resort7.com,7890123456,resort7@example.com
+7,8,Resort 8,Location 8,Description 8,www.resort8.com,8901234567,resort8@example.com
+8,9,Resort 9,Location 9,Description 9,www.resort9.com,9012345678,resort9@example.com
+9,10,Resort 10,Location 10,Description 10,www.resort10.com,0123456789,resort10@example.com
